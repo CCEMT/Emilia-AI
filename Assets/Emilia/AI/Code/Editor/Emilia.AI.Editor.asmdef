@@ -1,0 +1,18 @@
+{
+    "name": "Emilia.AI.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e3f6f4eeae6b6d44a85ba34bf0577fd7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
